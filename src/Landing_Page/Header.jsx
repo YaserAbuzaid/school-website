@@ -2,7 +2,7 @@ import React from 'react';
 import school_1 from '../assets/school_1.jpg';
 import school_2 from '../assets/school_2.jpg';
 import school_3 from '../assets/school_3.jpg';
-import { ImageSlider } from './imageslider';
+import { ImageSlider } from './imageslider.jsx';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import {AlertDialogDemo} from '../components/vidpop'
